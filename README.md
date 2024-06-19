@@ -6,10 +6,9 @@ This is an unofficial Python package to ease communicating with FlashForge 3D pr
 
 This has only been tested with the FlashForge Dreamer, but it should work with all printers that have the capability of being controlled by the FlashPrint application.
 
-## Planned Features
+## NOTE
 
-- Make this an actual package
-- Communication via USB
+I AM AWARE THAT THIS IS NOT A REAL PACKAGE THAT CAN BE INSTALLED YET. I AM WORKING ON IT.
 
 ## Usage
 
